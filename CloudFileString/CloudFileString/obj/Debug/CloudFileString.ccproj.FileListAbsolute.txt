@@ -1,0 +1,2 @@
+C:\Users\Admin\Desktop\PROJECT\Duplex\CloudFileString\CloudFileString\bin\Debug\ServiceConfiguration.cscfg
+C:\Users\Admin\Desktop\PROJECT\Duplex\CloudFileString\CloudFileString\bin\Debug\ServiceDefinition.csdef
